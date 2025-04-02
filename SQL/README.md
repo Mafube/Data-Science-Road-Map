@@ -20,7 +20,5 @@ Welcome to the SQL section of the Data Science Roadmap repository! This folder i
 - Use sample datasets to apply concepts in practical applications.
 - Explore additional resources and references provided in each section.
 
-This roadmap will help me gain proficiency in SQL, enabling me to work with databases confidently in data science and analytics projects.
 
-Happy Learning!
 
