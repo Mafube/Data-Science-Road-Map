@@ -6,6 +6,23 @@ Welcome to the SQL section of the Data Science Roadmap repository! This folder i
 
 SQL (Structured Query Language) is a standard programming language used to manage and manipulate relational databases. It enables users to create, read, update, and delete data, making it an essential tool for data analysis, business intelligence, and backend development. SQL is widely used in data science, allowing professionals to extract insights and perform complex queries efficiently.
 
+# Why SQL?
+SQL is widely popular because it offers the following advantages −
+
+- Allows users to access data in the relational database management systems.
+
+- Allows users to describe the data.
+
+- Allows users to define the data in a database and manipulate that data.
+
+- Allows to embed within other languages using SQL modules, libraries & pre-compilers.
+
+- Allows users to create and drop databases and tables.
+
+- Allows users to create view, stored procedure, functions in a database.
+
+- Allows users to set permissions on tables, procedures and views
+
 ## What This Repo Is About
 
 - **SQL Basics**: Introduction to databases, SQL syntax, and basic queries.
