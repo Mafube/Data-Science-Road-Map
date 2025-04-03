@@ -6,6 +6,17 @@ Welcome to the SQL section of the Data Science Roadmap repository! This folder i
 
 SQL (Structured Query Language) is a standard programming language used to manage and manipulate relational databases. It enables users to create, read, update, and delete data, making it an essential tool for data analysis, business intelligence, and backend development. SQL is widely used in data science, allowing professionals to extract insights and perform complex queries efficiently.
 
+## What This Repo Is About
+
+- **SQL Basics**: Introduction to databases, SQL syntax, and basic queries.
+- **Data Filtering & Aggregation**: Using `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY` clauses.
+- **Joins & Relationships**: Understanding `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, and `SELF JOIN`.
+- **Subqueries & Common Table Expressions (CTEs)**: Enhancing query efficiency and readability.
+- **Window Functions**: Using `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`, and other analytical functions.
+- **Indexes & Performance Optimization**: Improving query speed with indexing and optimization techniques.
+- **Stored Procedures & Triggers**: Automating SQL tasks with procedural elements.
+- **Advanced SQL Techniques**: Recursive queries, dynamic SQL, and handling complex datasets.
+
 # Why SQL?
 SQL is widely popular because it offers the following advantages −
 
@@ -23,16 +34,16 @@ SQL is widely popular because it offers the following advantages −
 
 - Allows users to set permissions on tables, procedures and views
 
-## What This Repo Is About
+# How SQL Works?
+When you are executing an SQL command for any RDBMS, the system determines the best way to carry out your request and SQL engine figures out how to interpret the task.
 
-- **SQL Basics**: Introduction to databases, SQL syntax, and basic queries.
-- **Data Filtering & Aggregation**: Using `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY` clauses.
-- **Joins & Relationships**: Understanding `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, and `SELF JOIN`.
-- **Subqueries & Common Table Expressions (CTEs)**: Enhancing query efficiency and readability.
-- **Window Functions**: Using `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`, and other analytical functions.
-- **Indexes & Performance Optimization**: Improving query speed with indexing and optimization techniques.
-- **Stored Procedures & Triggers**: Automating SQL tasks with procedural elements.
-- **Advanced SQL Techniques**: Recursive queries, dynamic SQL, and handling complex datasets.
+There are various components included in this process. These components are −
+
+Query Dispatcher
+Optimization Engines
+Classic Query Engine
+SQL Query Engine, etc.
+
 
 
 
